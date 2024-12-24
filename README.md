@@ -19,3 +19,4 @@ The output includes:
 Best solution for each instance.
 Maximum profit for each instance.
 Statistical measures (mean, standard deviation, max, min) of the results across multiple runs
+##References
