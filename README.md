@@ -19,4 +19,8 @@ The output includes:
 Best solution for each instance.
 Maximum profit for each instance.
 Statistical measures (mean, standard deviation, max, min) of the results across multiple runs
-##References
+#References
+Step by Step Procedure of ABC (1)
+Burak Kaya, İbrahim Eke. DEVELOPMENTS IN ARTIFICIAL BEE COLONY ALGORITHM AND THE RESULTS (2)
+Zeynep Banu Özger, Bülent Bolat, Banu Diri. (2020). A Locally Searched Binary Artificial Bee Colony Algorithm Based on Hamming Distance for Binary Optimization. Journal of Natural and Applied Sciences, 24(1), 120-131. (3)
+Akay, B., & Karaboğa, D. (2009). Performance Analysis of the Artificial Bee Colony (ABC) Algorithm in Numerical Optimization Problems. Supported by Erciyes University Scientific Research Projects Unit, Project Code: FBA-06-22. (4)
